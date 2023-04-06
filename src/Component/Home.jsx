@@ -102,15 +102,15 @@ export default function App() {
             <div className="col-lg-4 col-md-4 col-sm-4 col-4 size">
               <h4>Contact Us</h4>
               <p>
-                +91-9165333662 <br />
-                pradeepcarpenter345@gmail.com
+                +91-123466789 <br />
+                test@gmail.com
               </p>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-4 col-4 size">
               <h4>Localization</h4>
               <p>
-                Rajgarh,MP <br />
-                Village-Latahedi India💕
+                test,MP <br />
+                Village-test India💕
               </p>
             </div>
           </div>
