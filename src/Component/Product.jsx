@@ -38,7 +38,7 @@ export default function Product() {
     <>
       {loader === true ? (
         <div className="loader">
-          <span></span>
+          <span>ggggggg</span>
         </div>
       ) : (
         <>
